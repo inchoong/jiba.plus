@@ -1,2 +1,4 @@
-# jiba.plus
-jiba.plus
+# web
+https://jiba.plus
+## Community
+https://jiba.chat
